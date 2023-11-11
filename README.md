@@ -19,8 +19,11 @@ Microsoft will need to understand the preferences and interests of the target au
 
 ## The Data
 
-The data represents a sample of movies from different top genres that include adventure, thriller and comedy. The variables included in the data may consist of movie titles, genres, year of release and gross summaries. The target variable is the financial success of the films. This will help Microsoft's new movie studio decide what type of films to go for   
-
+The data represents a sample of movies from different top genres that include adventure, thriller, and comedy. The variables included in the data may consist of movie titles, genres, year of release and gross summaries. The target variable is the financial success of the films. This will help Microsoft's new movie studio decide what type of films to go for   
+## Recommendations
+1. Explore digital platforms and create a strong online presence to reach the target audience and promote your films
+2. Consider collaborating with producers/actors who are well known for their talent and build firm relationships with local film schools.
+3. Provide opportunities for script development and foster an environment that supports innovative storytelling.
 ## Deliverables
 
 There are three deliverables for this project:
@@ -29,6 +32,8 @@ There are three deliverables for this project:
 * A **Jupyter Notebook**
 * A **non-technical presentation**
 
+## Conclusion
+By analyzing the visual representations, it is evident that there is a strong demand for various genres. Creating a wide range of films that deeply connect with the audience can have a significant impact on the industry. This will capture the attention of those who find comfort in movies. 
 
 ## Summary
 
