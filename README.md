@@ -4,31 +4,22 @@ You've made it all the way through the first phase of this course - take a minut
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+Now you will put your new skills to use with a large end-of-phase project! This project should take 20 to 30 hours to complete.
 
-## Project Overview
+Title: Microsoft Film Studio Analysis
+Author: Naeema Suleiman Sheikh
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+### Project Overview
 
-### Business Problem
+For this project, we will explore what types of movies are currently popular at the box office by analyzing the current trends and providing insights for Microsoft's new movie studio.
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+## Business Problem
 
-### The Data
+Microsoft will need to understand the preferences and interests of the target audience. Additionally, it may need to find ways to stand out and differentiate itself in the film studio market. The establishment of partnerships to attract top-level talent is very much required.  The cost of implementing new technologies comes with a significant financial investment and keeping up with the pace of the evolving technology is crucial.
 
-In the folder `zippedData` are movie datasets from:
+## The Data
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+The data represents a sample of movies from different top genres that include adventure, thriller and comedy. The variables included in the data may consist of movie titles, genres, year of release and gross summaries. The target variable is the financial success of the films. This will help Microsoft's new movie studio decide what type of films to go for   
 
 ## Deliverables
 
@@ -60,6 +51,9 @@ Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/
 
 Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
 
+
 ## Summary
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+See the full analysis in the Jupyter Notebook or review the non-technical presentation.
+For additional info, contact Naeema Suleiman Sheikh @suleiman.sheikh@student.moringaschool.com
+
